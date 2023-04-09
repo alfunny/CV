@@ -1,0 +1,25 @@
+body {
+    background-color:#B2A4FF ;
+}
+
+
+
+hr {
+    border-style: none;
+    border-top: #FFDEB4 dotted;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+h1{
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 40px;
+}
+h3{
+    font-family: 'Delicious Handrawn', cursive;
+}
+h1,
+h2 {
+    color: #9A208C ;
+
+}
