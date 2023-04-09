@@ -1,5 +1,5 @@
 body {
-    background-color:#B2A4FF ;
+    background-color: #B2A4FF;
 }
 
 
@@ -11,15 +11,18 @@ hr {
     height: 0px;
     width: 5%;
 }
-h1{
+
+h1 {
     font-family: 'Delicious Handrawn', cursive;
-    font-size: 40px;
+    font-size: 45px;
 }
-h3{
+
+h3 {
     font-family: 'Delicious Handrawn', cursive;
 }
+
 h1,
 h2 {
-    color: #9A208C ;
+    color: #9A208C;
 
 }
